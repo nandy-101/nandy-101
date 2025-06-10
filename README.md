@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @nandy-101
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning coding languages, data science and machine learning
-- 💞️ I’m looking to collaborate on projects related to computer science
+- 👋 Hi, I’m Nandhalal S, final year Undergraduate student at SSN College of Engineering.
+- 👀 I’m interested in competitive programming, web development and machine learning. 
 - 📫 How to reach me (nandhalal2003@gmail.com)
 
 <!---
